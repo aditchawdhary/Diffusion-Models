@@ -22,3 +22,9 @@ Three things are required for Diffusion models,
 
 
 <img width="530" height="254" alt="image" src="https://github.com/user-attachments/assets/1e551c8f-775c-4af7-8bce-ec2dd9277218" />
+
+
+<img width="871" height="343" alt="image" src="https://github.com/user-attachments/assets/1b76a7b3-04c3-4466-815f-2c4d59c86bad" />
+
+The loss function
+
