@@ -1,11 +1,11 @@
 # Diffusion-Models
 Diffusion Models
 
-<img width="550" height="170" alt="image" src="https://github.com/user-attachments/assets/26222222-0ce3-462d-8f3a-804561816915" />
+<img width="550" height="250" alt="image" src="https://github.com/user-attachments/assets/26222222-0ce3-462d-8f3a-804561816915" />
 
 In Variational Auto Encoders, we can sample from the latent space to generate new data points.
 
-<img width="550" height="340" alt="image" src="https://github.com/user-attachments/assets/12cf5929-555b-427d-9046-7201fe8754bf" />
+<img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/12cf5929-555b-427d-9046-7201fe8754bf" />
 
 GANs are hard to train due to issues like vanishing gradients or mode collapse.
 
@@ -24,7 +24,7 @@ Three things are required for Diffusion models,
 <img width="550" height="250" alt="image" src="https://github.com/user-attachments/assets/1e551c8f-775c-4af7-8bce-ec2dd9277218" />
 
 
-<img width="550" height="150" alt="image" src="https://github.com/user-attachments/assets/1b76a7b3-04c3-4466-815f-2c4d59c86bad" />
+<img width="550" height="250" alt="image" src="https://github.com/user-attachments/assets/1b76a7b3-04c3-4466-815f-2c4d59c86bad" />
 
 The loss function
 
