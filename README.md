@@ -8,3 +8,6 @@ In Variational Auto Encoders, we can sample from the latent space to generate ne
 <img width="550" height="340" alt="image" src="https://github.com/user-attachments/assets/12cf5929-555b-427d-9046-7201fe8754bf" />
 
 GANs are hard to train due to issues like vanishing gradients or mode collapse.
+
+<img width="574" height="313" alt="image" src="https://github.com/user-attachments/assets/3bd0c7a7-0ff7-4539-9742-e7fd8847e93e" />
+First Noise is added to the image to destroy the image. Then randomly denoising is performed on the image. Typically 1000 step are chosen.
