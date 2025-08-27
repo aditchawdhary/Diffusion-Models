@@ -28,3 +28,5 @@ Three things are required for Diffusion models,
 
 The loss function
 
+
+Ref: https://www.youtube.com/watch?v=a4Yfz2FxXiY
